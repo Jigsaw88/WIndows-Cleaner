@@ -8,4 +8,4 @@ The batch script will delete all temp files from your pc.
 
 # Command to update all of your apps using Winget:
 
-winget upgrade --all --accept-package-agreements --accept-source-agreements
+```winget upgrade --all --accept-package-agreements --accept-source-agreements```
